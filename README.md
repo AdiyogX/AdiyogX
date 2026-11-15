@@ -20,7 +20,7 @@ Learning, building projects, experimenting with new technologies, and improving 
 
 This is my **backup GitHub account**.
 
-**Main GitHub:** [@iamjaydatt20006](https://github.com/iamjaydatt20006)
+**Main GitHub:** [@iamjaydatt2006](https://github.com/iamjaydatt2006)
 
 **Portfolio:** [jaydatt.pages.dev](https://jaydatt.pages.dev)
 
